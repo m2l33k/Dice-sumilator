@@ -29,3 +29,8 @@ A simple Dice Simulator application built using Python's Tkinter library. This a
     ```bash
     python dice_simulator.py
     ```
+Usage
+
+    Enter the number of dice you want to roll in the input field.
+    Click the "Roll Dice" button to generate the dice rolls.
+    View the results displayed on the screen.
